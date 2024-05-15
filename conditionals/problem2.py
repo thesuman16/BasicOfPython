@@ -1,0 +1,1 @@
+#Movie tickets are priced based on age ₹120 for adults>18, ₹60 for children. If wednessday everyone gets ₹20 discoount
