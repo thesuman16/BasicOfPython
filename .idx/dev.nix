@@ -11,6 +11,7 @@
      pkgs.python311Packages.pip
      pkgs.nodejs_20
      pkgs.python313Full
+     pkgs.python-launcher
     # pkgs.nodePackages.nodemon
   ];
 
